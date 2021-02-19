@@ -4,7 +4,7 @@ This repository includes all the practice and projects that i did to put in prac
 
 ## Running the notebooks 📋
 
-_To run all the jupyter notebooks, use [Google Colab](https://colab.research.google.com/)
+To run all the jupyter notebooks, use [Google Colab](https://colab.research.google.com/)
 
 ## Content 📖
 
